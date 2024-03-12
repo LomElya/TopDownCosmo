@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d92c58c7e1c66eb49962af8c7b5384fa, type: 3}
+  m_Name: ShipFactory
+  m_EditorClassIdentifier: 
+  _configs:
+  - <Prefab>k__BackingField: {fileID: 6829301708405374590, guid: f6e37c6456d5f3b41ab8d6a17155e964, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: 4e646bbc34771224883bd31a2fabaa3d, type: 2}
+  - <Prefab>k__BackingField: {fileID: 8700017638661598457, guid: 1e9737f9ca694a842ba1437dbf8c4729, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: 80513a6ef4683b8439216ecbf2cd5b9f, type: 2}
+  - <Prefab>k__BackingField: {fileID: 3348710395026437522, guid: 827b9db738a490d4bbe794b65558862a, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: 72f5c6a0d8c366e4db235f39be74b462, type: 2}
+  - <Prefab>k__BackingField: {fileID: 8648105073682285029, guid: 39f7482eaf43aa44193e394cb7ee2897, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: cbb80afc5ef6ca54ab5bb087e91174a3, type: 2}
+  - <Prefab>k__BackingField: {fileID: 1908491280748646411, guid: 4efa67e4865fe4b41bf272784535a029, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: eb3e2a4ab1249c14d8086e47060c4c71, type: 2}
+  - <Prefab>k__BackingField: {fileID: 1871835062671024788, guid: 5489c138cd7e3044cab9358112aa1346, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: 3b9c338f42d7ca948b7d41276e773f96, type: 2}
+  - <Prefab>k__BackingField: {fileID: 1496461202007616820, guid: 8d0d361f0004b0449985da7b5b3b1e35, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: 823542d00e5973443af8a198025003cc, type: 2}
+  - <Prefab>k__BackingField: {fileID: 2650817379547994525, guid: 962b78888e5223948902e6bb6f99e07e, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: 11433c4b7c5884347bc81094126d09c7, type: 2}
+  - <Prefab>k__BackingField: {fileID: 9157129230617854241, guid: 48f72d6c54112ca4ab29ed4bed0143e6, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: 4a7f8575874b7d745916f93cd2b2baa6, type: 2}
+  - <Prefab>k__BackingField: {fileID: 6693244007297944024, guid: 1a06901a87413064fab95e68b74b0e30, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: c214eacafc732c24485eecd693b2fe22, type: 2}
+  - <Prefab>k__BackingField: {fileID: 5234327053673018421, guid: e83fdab1a48565542bc4bfba20d9a6a7, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: 2f8a26c0c82bef442989f7535d72f154, type: 2}
+  - <Prefab>k__BackingField: {fileID: 5579625655901539948, guid: 74dc02984e015ab4f8f111c83326111d, type: 3}
+    <ShopShip>k__BackingField: {fileID: 11400000, guid: ed7f434ea32c1b04c93c6f73f66f12fc, type: 2}
+  _data:
+  - Config: {fileID: 11400000, guid: b6450c7a70cabaf41a6629f7ce9e3736, type: 2}
+    Prefab: {fileID: 6829301708405374590, guid: f6e37c6456d5f3b41ab8d6a17155e964, type: 3}
+  - Config: {fileID: 11400000, guid: c4cfa1bb683647541a45973af7d332fa, type: 2}
+    Prefab: {fileID: 8700017638661598457, guid: 1e9737f9ca694a842ba1437dbf8c4729, type: 3}
+  - Config: {fileID: 11400000, guid: ae1743de2e423014e991ef1fea84f585, type: 2}
+    Prefab: {fileID: 3348710395026437522, guid: 827b9db738a490d4bbe794b65558862a, type: 3}
+  - Config: {fileID: 11400000, guid: 934ef334807b9ae4d9ee89eee8f58190, type: 2}
+    Prefab: {fileID: 8648105073682285029, guid: 39f7482eaf43aa44193e394cb7ee2897, type: 3}
+  - Config: {fileID: 11400000, guid: 798d4cd3725c36f4699799e5621b9981, type: 2}
+    Prefab: {fileID: 1908491280748646411, guid: 4efa67e4865fe4b41bf272784535a029, type: 3}
+  - Config: {fileID: 11400000, guid: 0f567fd4623ac9044994fcb099acb0ae, type: 2}
+    Prefab: {fileID: 1871835062671024788, guid: 5489c138cd7e3044cab9358112aa1346, type: 3}
+  - Config: {fileID: 11400000, guid: 86a7f0453ea492f4499ce0f3e5da0244, type: 2}
+    Prefab: {fileID: 1496461202007616820, guid: 8d0d361f0004b0449985da7b5b3b1e35, type: 3}
+  - Config: {fileID: 11400000, guid: 65ec481e469615b4c81670d6d92d2a46, type: 2}
+    Prefab: {fileID: 2650817379547994525, guid: 962b78888e5223948902e6bb6f99e07e, type: 3}
+  - Config: {fileID: 11400000, guid: 2d9c89345129a764ea90491130b33abe, type: 2}
+    Prefab: {fileID: 9157129230617854241, guid: 48f72d6c54112ca4ab29ed4bed0143e6, type: 3}
+  - Config: {fileID: 11400000, guid: 729c546d21d1a824294ea274435e9093, type: 2}
+    Prefab: {fileID: 6693244007297944024, guid: 1a06901a87413064fab95e68b74b0e30, type: 3}
+  - Config: {fileID: 11400000, guid: f93515d8fd599a34eaa9b6d20cae4e0b, type: 2}
+    Prefab: {fileID: 5234327053673018421, guid: e83fdab1a48565542bc4bfba20d9a6a7, type: 3}
+  - Config: {fileID: 11400000, guid: 7551320bcfbce1644baab27e91c4feda, type: 2}
+    Prefab: {fileID: 5579625655901539948, guid: 74dc02984e015ab4f8f111c83326111d, type: 3}

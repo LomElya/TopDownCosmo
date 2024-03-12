@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b0dd4510af1754098c0174be1baaad, type: 3}
+  m_Name: InteractableFactory
+  m_EditorClassIdentifier: 
+  _datas:
+  - Prefab: {fileID: 4289077009329720910, guid: 85036a70ea2c142449aa106811a50635, type: 3}
+    Config: {fileID: 11400000, guid: d89dbec54b301ee4182ba6ed42c431cb, type: 2}
+  - Prefab: {fileID: 4628523795186404330, guid: 78d33b834689d9e45948ba5ed90217a3, type: 3}
+    Config: {fileID: 11400000, guid: 3b0e811791d9d2643b2867743748bc9b, type: 2}
+  - Prefab: {fileID: 7555476290620612066, guid: 5514e9ad9578986459f342c30b2a6ccb, type: 3}
+    Config: {fileID: 11400000, guid: 02bf5a915af90164d8720b70df2612c2, type: 2}
+  - Prefab: {fileID: 6198026484483792924, guid: e9e9ae261c9bbff4ea811e595ec59cbd, type: 3}
+    Config: {fileID: 11400000, guid: 705ac56d26dd5244c929490ab17dbfc5, type: 2}

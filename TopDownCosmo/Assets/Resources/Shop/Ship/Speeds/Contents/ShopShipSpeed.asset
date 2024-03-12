@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 513272c7234ef0745a4f9fe93d6f411b, type: 3}
+  m_Name: ShopShipSpeed
+  m_EditorClassIdentifier: 
+  _contents:
+  - {fileID: 11400000, guid: 3b9c338f42d7ca948b7d41276e773f96, type: 2}
+  - {fileID: 11400000, guid: 823542d00e5973443af8a198025003cc, type: 2}
+  <Type>k__BackingField: 2

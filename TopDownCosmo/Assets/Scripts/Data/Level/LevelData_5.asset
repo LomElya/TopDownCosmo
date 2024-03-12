@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c26fe8b81aae94469bdb8be27953a9e, type: 3}
+  m_Name: LevelData_5
+  m_EditorClassIdentifier: 
+  <ID>k__BackingField: 4
+  <LevelLength>k__BackingField: 60
+  <StartSpeed>k__BackingField: 1.8
+  <EndSpeed>k__BackingField: 2.8
+  <GoldForPass>k__BackingField: 0
+  <InteractableSpawn>k__BackingField:
+  - <Type>k__BackingField: 1
+    <StartCooldown>k__BackingField: 0.75
+    <EndCooldown>k__BackingField: 0.55
+    <PrewarmTime>k__BackingField: 3
+  - <Type>k__BackingField: 2
+    <StartCooldown>k__BackingField: 0.75
+    <EndCooldown>k__BackingField: 0.5
+    <PrewarmTime>k__BackingField: 3
+  - <Type>k__BackingField: 3
+    <StartCooldown>k__BackingField: 10
+    <EndCooldown>k__BackingField: 10
+    <PrewarmTime>k__BackingField: 10
+  - <Type>k__BackingField: 4
+    <StartCooldown>k__BackingField: 7
+    <EndCooldown>k__BackingField: 7
+    <PrewarmTime>k__BackingField: 7

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 513272c7234ef0745a4f9fe93d6f411b, type: 3}
+  m_Name: ShopShipTank
+  m_EditorClassIdentifier: 
+  _contents:
+  - {fileID: 11400000, guid: 11433c4b7c5884347bc81094126d09c7, type: 2}
+  - {fileID: 11400000, guid: 4a7f8575874b7d745916f93cd2b2baa6, type: 2}
+  - {fileID: 11400000, guid: c214eacafc732c24485eecd693b2fe22, type: 2}
+  - {fileID: 11400000, guid: 2f8a26c0c82bef442989f7535d72f154, type: 2}
+  - {fileID: 11400000, guid: ed7f434ea32c1b04c93c6f73f66f12fc, type: 2}
+  <Type>k__BackingField: 3
